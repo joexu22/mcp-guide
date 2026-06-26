@@ -33,19 +33,19 @@ Here are four excellent diagrams (sourced from community explainers on Medium an
 
 ### 1. Overview of MCP
 
-![MCP Overview](https://miro.medium.com/0*E1u6nfTiLqtTRNhx.png)
+![MCP Overview](images/mcp-overview.png)
 
 ### 2. Architecture & Core Flow
 
-![MCP Architecture](https://miro.medium.com/v2/resize:fit:1400/0*e2mjWIjmJwo2NehC.png)
+![MCP Architecture](images/mcp-architecture.png)
 
 ### 3. Real-World Use Case / Example
 
-![MCP Use Case](https://miro.medium.com/v2/resize:fit:1200/1*RGf_TlmiIqJhC17LLHRjoA.png)
+![MCP Use Case](images/mcp-use-case.png)
 
 ### 4. How MCP Connects Models to Context
 
-![MCP Flow](https://media2.dev.to/dynamic/image/width=800,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv18niytvngm5ltumvnfy.webp)
+![MCP Flow](images/mcp-flow.png)
 
 > **Note:** Local copies of these images are also available in the `images/` folder of this repository.
 
