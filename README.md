@@ -33,21 +33,21 @@ Here are four excellent diagrams (sourced from community explainers on Medium an
 
 ### 1. Overview of MCP
 
-![MCP Overview](images/mcp-overview.png)
+![MCP Overview](assets/mcp-overview.png)
 
 ### 2. Architecture & Core Flow
 
-![MCP Architecture](images/mcp-architecture.png)
+![MCP Architecture](assets/mcp-architecture.png)
 
 ### 3. Real-World Use Case / Example
 
-![MCP Use Case](images/mcp-use-case.png)
+![MCP Use Case](assets/mcp-use-case.png)
 
 ### 4. How MCP Connects Models to Context
 
-![MCP Flow](images/mcp-flow.png)
+![MCP Flow](assets/mcp-flow.png)
 
-> **Note:** Local copies of these images are also available in the `images/` folder of this repository.
+> **Note:** Local copies of these images are also available in the `assets/` folder of this repository.
 
 ---
 
@@ -122,4 +122,4 @@ If you're building AI-powered apps or agents in 2026, understanding and using MC
 
 ---
 
-*This guide incorporates illustrative diagrams originally shared in community articles on Medium and dev.to. Local PNG copies are checked into the `images/` directory.*
+*This guide incorporates illustrative diagrams originally shared in community articles on Medium and dev.to. Local PNG copies are checked into the `assets/` directory.*
