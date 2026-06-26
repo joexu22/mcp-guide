@@ -29,23 +29,25 @@ Even with great frameworks like LangChain, LlamaIndex, or CrewAI, each new data 
 
 ## The Images That Explain MCP
 
-Here are four excellent diagrams that illustrate the concepts:
+Here are four excellent diagrams (sourced from community explainers on Medium and dev.to):
 
 ### 1. Overview of MCP
 
-![MCP Overview](images/mcp-overview.png)
+![MCP Overview](https://miro.medium.com/0*E1u6nfTiLqtTRNhx.png)
 
 ### 2. Architecture & Core Flow
 
-![MCP Architecture](images/mcp-architecture.png)
+![MCP Architecture](https://miro.medium.com/v2/resize:fit:1400/0*e2mjWIjmJwo2NehC.png)
 
 ### 3. Real-World Use Case / Example
 
-![MCP Use Case](images/mcp-use-case.png)
+![MCP Use Case](https://miro.medium.com/v2/resize:fit:1200/1*RGf_TlmiIqJhC17LLHRjoA.png)
 
 ### 4. How MCP Connects Models to Context
 
-![MCP Flow](images/mcp-flow.png)
+![MCP Flow](https://media2.dev.to/dynamic/image/width=800,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv18niytvngm5ltumvnfy.webp)
+
+> **Note:** Local copies of these images are also available in the `images/` folder of this repository.
 
 ---
 
@@ -120,4 +122,4 @@ If you're building AI-powered apps or agents in 2026, understanding and using MC
 
 ---
 
-*This guide incorporates illustrative diagrams originally shared in community articles on Medium and dev.to. The goal is to provide a clear, self-contained explanation inside your mcp-guide repository.*
+*This guide incorporates illustrative diagrams originally shared in community articles on Medium and dev.to. Local PNG copies are checked into the `images/` directory.*
