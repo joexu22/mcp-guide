@@ -1,9 +1,5 @@
-# What Is An MCP?
+# MCP Guide
 
-Full article content pushed again.
+See [README.md](README.md) for the full illustrated guide to the Model Context Protocol (MCP).
 
-The statement is true: Pre-MCP required lots of custom glue code.
-
-Past techniques: LangChain, function calling, etc.
-
-MCP standardizes it.
+This repository hosts a beginner-friendly explanation along with key diagrams explaining MCP architecture, use cases, and how it standardizes AI-to-tool connections.
