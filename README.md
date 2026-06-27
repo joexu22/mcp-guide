@@ -27,27 +27,31 @@ Even with great frameworks like LangChain, LlamaIndex, or CrewAI, each new data 
 
 ---
 
-## The Images That Explain MCP
+## Diagrams
 
-Here are four excellent diagrams (sourced from community explainers on Medium and dev.to):
+### 1. The Big Picture
 
-### 1. Overview of MCP
-
-![MCP Overview](images/mcp-overview.png)
-
-### 2. Architecture & Core Flow
+MCP acts as a universal connector — like USB-C for AI apps.
 
 ![MCP Architecture](images/mcp-architecture.png)
 
-### 3. Real-World Use Case / Example
+### 2. How the Protocol Works
+
+An MCP Client inside the host translates AI requests into the protocol format, sends them to the MCP Server, and the server fetches/executes against the actual data source.
+
+![MCP Overview](images/mcp-overview.png)
+
+### 3. Real-World Connections
+
+A model can reach Postgres, Slack, local files, or any other service through a single MCP layer.
 
 ![MCP Use Case](images/mcp-use-case.png)
 
-### 4. How MCP Connects Models to Context
+### 4. MCP vs. Traditional Function Calling
+
+Traditional function-calling wires the model directly to one API at a time. MCP introduces a client-node layer so any number of servers can be reached through a standard interface.
 
 ![MCP Flow](images/mcp-flow.png)
-
-> **Note:** Local copies of these images are also available in the `images/` folder of this repository.
 
 ---
 
@@ -122,4 +126,4 @@ If you're building AI-powered apps or agents in 2026, understanding and using MC
 
 ---
 
-*This guide incorporates illustrative diagrams originally shared in community articles on Medium and dev.to. Local PNG copies are checked into the `images/` directory.*
+*Diagrams sourced from community articles on Medium and dev.to.*
